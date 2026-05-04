@@ -1,4 +1,4 @@
 site_name: Grace's Blog
 nav:
-  - Home: index.md
+  - About Me: index.md
   - Writings: writings/accelerate-dev-cycle.md
