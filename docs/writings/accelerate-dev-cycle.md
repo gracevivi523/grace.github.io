@@ -11,7 +11,7 @@ The primary goal of a prototype is to de-risk an idea before committing signific
 
 #### Leverage "Dogfooding" and Beta Interations
 
-Highlighted by Cat Wu, internal testing (dogfooding) and early beta releases are essential for high-speed delivery. Rather than waiting for a "perfect" version, shipping a functional beta to internal teams or a select group of users creates continous feedbackloop. This allows for real-time adjustments and ensures the final product aligns with actual user needs. In my previous work, we also used this approach.
+Highlighted by Cat Wu, internal testing (dogfooding) and early beta releases are essential for high-speed delivery. Rather than waiting for a "perfect" version, shipping a functional beta to internal teams or a select group of users creates continous feedback loop. This allows for real-time adjustments and ensures the final product aligns with actual user needs. In my previous work, we also used this approach.
 
 #### Transition to AI-Augmented Code Reviews
 
